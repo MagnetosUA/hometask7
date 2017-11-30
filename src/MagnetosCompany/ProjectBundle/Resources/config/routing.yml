@@ -1,0 +1,7 @@
+project_homepage:
+    path:     /
+    defaults: { _controller: ProjectBundle:Default:index }
+
+project_register:
+    path:     /register
+    defaults: { _controller: ProjectBundle:Default:register }
